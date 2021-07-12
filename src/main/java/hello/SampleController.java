@@ -26,7 +26,7 @@ public class SampleController {
         boolean end = false;
 
         // calcUserMoney method test
-        int userMoney = 10000;
+        int userMoney = 100000;
         int totalPrice = 0;
 //        int calcMoney = calcUserMoney(userMoney, totalPrice);
 //        System.out.println("userMoney: " + userMoney + ", totalPrice: " + totalPrice);
